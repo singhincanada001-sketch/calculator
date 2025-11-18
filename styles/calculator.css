@@ -1,0 +1,25 @@
+body{
+    background-color:black;
+    color:white;
+    font-size:30px;
+    margin-left:20px;
+    
+}
+button{
+    background-color:#454545;
+    width:60px;
+    height:60px;
+    border-radius:50%;
+    border:none;
+    font-size:25px;
+    color:white;
+    cursor:pointer;
+     transition:transform 0,2s;
+     margin:4px
+}
+button:hover{
+     transform:scale(1.1)
+}
+.operator{
+    background-color:orange;
+}
